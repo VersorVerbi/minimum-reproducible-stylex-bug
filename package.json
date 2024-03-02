@@ -34,5 +34,12 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@stylexjs/eslint-plugin": "^0.5.1",
+    "@stylexjs/shared": "^0.5.1",
+    "@stylexjs/stylex": "^0.5.1",
+    "eslint": "^8.57.0",
+    "eslint-plugin-react": "^7.33.2"
   }
 }
